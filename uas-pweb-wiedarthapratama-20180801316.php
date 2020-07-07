@@ -18,7 +18,7 @@
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title">UAS - Pemrograman Web - Wied Artha Pratama - 20180801316 - No 1 - Perhitungan THR</h5>
-                <p class="card-text">source: </p>
+                <p class="card-text">source: <a href="https://github.com/wiedarthapratama/uas-pweb-no-1.git" target="_blank">https://github.com/wiedarthapratama/uas-pweb-no-1.git</a></p>
                 <table class="table" id="datatable">
                     <thead>
                         <tr>
